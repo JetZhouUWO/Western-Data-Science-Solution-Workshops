@@ -11,3 +11,9 @@ This workshop is an excellent starting point for beginners in Python programming
 ## Intermediate Python Workshop: EDA, Statistical Testing and Introduction to Machine Learning
 
 This workshop is designed for intermediate Python programmers. It provides practical knowledge on Exploratory Data Analysis (EDA), statistical testing, and a brief introduction to machine learning.
+
+The workshop materials include:
+
+- Techniques for EDA and data cleaning using Python.
+- Implementation of traditional statistical models like ANOVA and T-Test using Python.
+- A brief introduction to machine learning with Python.
